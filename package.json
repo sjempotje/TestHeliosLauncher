@@ -1,6 +1,6 @@
 {
   "name": "helioslauncher",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "productName": "Helios Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/sjempotje/TestHeliosLauncher.git"
   }
 }
